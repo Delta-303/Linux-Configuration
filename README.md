@@ -7,7 +7,8 @@
 
 ### 应用的补丁
 DWL:
-1. 
+1. [AutoStart](https://dwm.suckless.org/patches/autostart/)
 
+   
 ST：
 1. [Gruvbox](https://st.suckless.org/patches/gruvbox/)
