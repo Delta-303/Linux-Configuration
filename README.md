@@ -8,6 +8,7 @@
 ### 应用的补丁
 DWL:
 1. [AutoStart](https://dwm.suckless.org/patches/autostart/)  #用于自动启动
+
 ST：
 1. [Gruvbox](https://st.suckless.org/patches/gruvbox/)  #配色方案
 2. [Expected anysize](https://st.suckless.org/patches/anysize/)  #解决原先打开st无法填充满屏幕的问题
